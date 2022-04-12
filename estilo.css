@@ -1,0 +1,140 @@
+:root{
+    --color-Hora:#f19292;
+    --color-FyQ:#9b3bfe ;
+    --color-Bio:#3ce288 ;
+    --color-Val:#feac3b ;
+    --color-Tecno:#f174eb;
+    --color-Mat:#74d7f1;
+    --color-Ing:#4f60d6;
+    --color-VE:#f6fe3b ;
+    --color-Inf:#3bfee5 ;
+    --color-EF:#a3e23c ;
+    --color-GyH:#2b8826;
+    --color-Tut:#dbade6;
+    --color-Caste:#e23c3c;
+    --color-Pat:#858da6 ;
+    --color-Dias:#d4edbb;
+    --color-Horario:#edbbdd;
+}
+table{
+    margin: 0px auto;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td, th {
+    text-align: center;
+    border: 3px solid black;
+}
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: black 20px;
+    font-size: 20px;
+}
+.nomenclatura-Hora{
+    background-color: var(--color-Hora) ;
+    width: 50px;
+}
+.nomenclatura-FyQ{
+    background-color: var(--color-FyQ);
+    width: 50px;
+}
+.nomenclatura-Bio{
+    background-color: var(--color-Bio);
+    width: 50px;
+}
+.nomenclatura-Val{
+    background-color: var(--color-Val);
+    width: 50px;
+}
+.nomenclatura-Tecno{
+    background-color: var(--color-Tecno);
+    width: 50px;
+}
+.nomenclatura-Mat{
+    background-color: var(--color-Mat);
+    width: 50px;
+}
+.nomenclatura-Ing{
+    background-color: var(--color-Ing);
+    width: 50px;
+}
+.nomenclatura-VE{
+    background-color: var(--color-VE);
+    width: 50px;
+}
+.nomenclatura-Inf{
+    background-color: var(--color-Inf);
+    width: 50px;
+}
+.nomenclatura-GyH{
+    background-color: var(--color-GyH);
+    width: 50px;
+}
+.nomenclatura-Tut{
+    background-color: var(--color-Tut);
+    width: 50px;
+}
+.nomenclatura-Caste{
+    background-color: var(--color-Caste);
+    width: 50px;
+}
+.nomenclatura-Pat{
+    background-color: var(--color-Pat);
+    width: 50px;
+}
+.nomenclatura-EF{
+    background-color: var(--color-EF) ;
+    width: 50px;
+}
+.Hora{
+    background-color: var(--color-Hora) ;
+}
+.FyQ{
+    background-color: var(--color-FyQ) ;
+}
+.Bio{
+    background-color: var(--color-Bio) ;
+}
+.Val{
+    background-color: var(--color-Val) ;
+}
+.Tecno{
+    background-color: var(--color-Tecno) ;
+}
+.Mat{
+    background-color: var(--color-Mat) ;
+}
+.Ing{
+    background-color: var(--color-Ing) ;
+}
+.VE{
+    background-color: var(--color-VE) ;
+}
+.EF{
+    background-color: var(--color-EF) ;
+}
+.Inf{
+    background-color: var(--color-Inf) ;
+}
+.GyH{
+    background-color: var(--color-GyH) ;
+}
+.Tut{
+    background-color: var(--color-Tut) ;
+}
+.Caste{
+    background-color: var(--color-Caste) ;
+}
+.Pat{
+    background-color: var(--color-Pat) ;
+}
+.Dias{
+    background-color: var(--color-Dias) ;
+}
+.Horario{
+    background-color: var(--color-Horario);
+}
+h1{
+    text-align: center;
+}
